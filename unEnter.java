@@ -1,1 +1,1 @@
-public class unEnter{boolean tf = true;public void main(String args){System.out.println(tf;)}}
+public class unEnter{boolean tf = true;public void main(String args){System.out.println(tf);}public int i;public int i;public int i;public int i;vvpublic int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;public int i;vpublic int i;public int i;public int i;public int i;}
